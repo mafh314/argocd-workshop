@@ -12,7 +12,7 @@ on:
 
 env:
   REGISTRY_URL: quay.io
-  REGISTRY_USERNAME: falrayes
+  REGISTRY_USERNAME: manferna
   REGISTRY_ACCESS_USER: manferna+argocd
   FASTAPI_IMAGE_REPO: fastapi-argocd-workshop
   GO_IMAGE_REPO: go-argocd-workshop
